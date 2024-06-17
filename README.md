@@ -1,9 +1,7 @@
-# colorlog_cpp
+# Colorlog - Fast, Modern, Color Logging with C++
 C++ Header-only Color-coded Logging and Error Library with Cross-Platform support and Asynchronous and Synchronous functionality
 
-# colorlog.hpp
-
-Header-only cross-platform color-coded C++ logging library with async and synchronous functionality.
+![image](https://github.com/bgorlick/colorlog_cpp/assets/5460972/ad2dc642-0646-4cce-9bf5-6ec1456c3ce6)
 
 ## Installation
 
